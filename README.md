@@ -4,7 +4,7 @@
 > [!WARNING]
 > :warning: **<https://github.com/AztecProtocol/barretenberg> is a mirror-only repository, please only use <https://github.com/AztecProtocol/aztec-packages>. Do not use this for any purpose other than reference.** :warning:
 
-![banner](../.github/img/bb_banner.png)
+![banner](https://github.com/AztecProtocol/aztec-packages/blob/master/.github/img/bb_banner.png)
 
 # Barretenberg
 
